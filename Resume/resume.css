@@ -1,0 +1,29 @@
+h1{
+    color:black;
+    background-color: burlywood;
+    text-shadow: 1px 1px 0.2px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 20px green;
+}
+
+h2{
+    color: red;
+    background-color: beige;
+    box-shadow: 2px 2px 25px black;
+    border-radius: 5px;
+    
+}
+
+#declaration{
+    color: green;
+    text-shadow: 1px 2px 0.4px;
+}
+body{
+    font-style: italic;
+    
+}
+
+#name{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow:1px 1px 10px ;
+}
